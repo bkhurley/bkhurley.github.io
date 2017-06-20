@@ -8,7 +8,7 @@ bio: phd student. cognitive scientist. data nerd. slow cyclist
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/hurley_b_1533.jpg
+picture: assets/images/hurley_b_cropped.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -39,10 +39,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/bkhurley
+linkedin: bkhurley
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/bkhurley
+github: bkhurley
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -56,7 +56,7 @@ authors:
         name: Brian Hurley
         bio: phd student. cognitive scientist. data nerd. slow cyclist
         external-image: false
-        picture: assets/images/hurley_b_1533.jpg
+        picture: assets/images/hurley_b_cropped.jpg
         #twitter: johndoe
     # jamesfoster:
         # name: James Foster
@@ -75,7 +75,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
