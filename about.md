@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I am a PhD student at the University of California Davis' [Center for Mind and Brain](http://mindbrain.ucdavis.edu), where I study in the [Janata Lab](https://atonal.ucdavis.edu). My research uses a combination of body movement recordings, psychophysics, computational modeling, and subjective ratings to examine the intersection between attention, sound-movement synchronization, and pleasure in human listeners.
+I am a PhD student at the University of California Davis' [Center for Mind and Brain](http://mindbrain.ucdavis.edu), where I study in the [Janata Lab](https://atonal.ucdavis.edu). My research uses body movement recordings, psychophysics, computational modeling, and subjective ratings to examine how attention, sound-movement synchronization, and pleasure interact to to shape human listeners' engagement with music.
 
 As I approach the end of my PhD, I am preparing a transition to industry, ideally as a quantitative user researcher or data scientist.
 
