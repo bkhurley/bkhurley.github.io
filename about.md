@@ -10,4 +10,4 @@ As I approach the end of my PhD, I am preparing a transition to industry, ideall
 
 When I am not am not designing experiments, coding, analyzing data, or writing, you can find me rolling on two wheels through the hilly roads of the San Francisco Bay Area.
 
-Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://github.com/bkhurley), or [email](hurley.brian@gmail.com) me. If you like cycling, you can also find me on [Strava](https://www.strava.com/athletes/4699116).
+Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://github.com/bkhurley), or [email](mailto:hurley.brian@gmail.com) me. If you like cycling, you can also find me on [Strava](https://www.strava.com/athletes/4699116).
