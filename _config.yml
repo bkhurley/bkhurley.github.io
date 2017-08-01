@@ -1,6 +1,6 @@
 # main text of home
 name: Brian Hurley
-bio: PhD Student. Cognitive Scientist. Slow Cyclist
+bio: Cognitive Scientist. Researcher. Data Hacker.
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/hurley_b_cropped.jpeg
 # and specify source (external or local).
 resume: false
 resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/
 
 url: http://bkhurley.github.io
 # your url: http://USERNAME.github.io
@@ -69,7 +69,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
