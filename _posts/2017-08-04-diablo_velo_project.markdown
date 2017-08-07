@@ -2,7 +2,13 @@
 title: "Diablo Velo"
 layout: post
 date: 2017-08-04 12:00
-tag: jekyll
+tag: 
+    - python
+    - machine learning
+    - pandas
+    - sklearn
+    - cycling
+    - strava
 image: http://www.bikecleveland.org/wp-content/uploads/2016/02/Strava1.png
 headerImage: true
 projects: true
