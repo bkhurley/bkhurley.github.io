@@ -13,7 +13,7 @@ author: bkhurley
 externalLink: false
 ---
 
-Side project that mines [Strava's API](https://strava.github.io/api/) for all recorded cycling efforts on the popular Bay Area mountain-climbing segment [Diablo - North Gate to Summit](https://www.strava.com/segments/656860) and uses performance data from over 23,000 rides to predict cyclists' moving time up the mountain. Built with the following Python tools:
+Side project that mines cycling data from [Strava's API](https://strava.github.io/api/) to analyze cycling efforts on the popular Bay Area mountain-climbing segment [Diablo - North Gate to Summit](https://www.strava.com/segments/656860). Uses performance data from over 23,000 rides and weather data scraped from [Weather Underground](http://wunderground.com) to predict cyclists' moving time up the mountain. Built with the following Python tools (among others):
 
 - pandas
 - sklearn
