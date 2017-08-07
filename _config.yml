@@ -1,6 +1,6 @@
 # main text of home
 name: Brian Hurley
-bio: Cognitive Scientist. Researcher. Data Hacker.
+bio: PhD Student. Cognitive Scientist. Data Hacker.
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: bkhurley # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -54,7 +54,7 @@ email: hurley.brian@gmail.com
 authors:
     brianhurley:
         name: Brian Hurley
-        bio: PhD Student. Cognitive Scientist. Slow Cyclist
+        bio: PhD Student. Cognitive Scientist. Data Hacker
         external-image: false
         picture: assets/images/hurley_b_cropped.jpeg
         #twitter: johndoe
