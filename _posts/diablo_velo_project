@@ -1,0 +1,21 @@
+---
+title: "Diablo Velo"
+layout: post
+date: 2017-08-07 14:26
+description: "An analysis of cyclists performance on Mount Diablo."
+tag:
+    - Python
+projects: true
+jemoji:
+author: bkhurley
+---
+
+Side project that mines [Strava's API](https://strava.github.io/api/) for all recorded cycling efforts on the popular Bay Area mountain-climbing segment [Diablo - North Gate to Summit](https://www.strava.com/segments/656860) and uses performance data from over 23,000 rides to predict cyclists' moving time up the mountain. Built with the following Python tools:
+
+- pandas
+- sklearn
+- matplotlib
+- seaborn
+- BeautifulSoup
+
+[GitHub repo](https://github.com/bkhurley/diablo_velo){:target="_blank"} 
