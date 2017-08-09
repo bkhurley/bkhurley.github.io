@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-# Brian Hurley
+## Brian Hurley
 *Graduate Student Researcher and PhD Candidate in the [Janata Lab](https://atonal.ucdavis.edu) at the University of California Davis' [Center for Mind and Brain](http://mindbrain.ucdavis.edu)*
 
 ## About Me
@@ -19,7 +19,7 @@ Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://gi
 ## Papers
 Articles published (or to be published!) in peer-review journals
 - **Hurley, B. K.**, Fink, L. K., Janata, P. (under review). Mapping the dynamic allocation of attention in music.
-- **Hurley, B. K.**, Martens, P. A., Janata, P. (2014). Spontaneous sensorimotor coupling with multipart music. *Journal of Experimental Psychology: Human Perception and Performance.* 40(4). 1679-1696. doi: 10.1037/a0037154
+- **Hurley, B. K.**, Martens, P. A., Janata, P. (2014). [Spontaneous sensorimotor coupling with multipart music](/assets/HurleyMartensJanata_2014_JEPHPP.pdf). *Journal of Experimental Psychology: Human Perception and Performance.* 40(4). 1679-1696. doi: 10.1037/a0037154
 
 ## Presentations
 Conference presentations
