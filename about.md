@@ -23,10 +23,11 @@ Articles published (or to be published!) in peer-review journals
 
 ### Presentations
 Conference presentations
-- **Hurley, B. K.**, Fink, L. K., Janata, P. (2017). A resonator model predicts temporal orienting in rhythmic music. Poster presented at the annual meeting of the Cognitive Neuroscience Society. San Francisco, CA.
-- **Hurley, B. K.**, Fink, L. K., Janata, P. (2016). Predicting temporal attention in music with a damped oscillator model. Poster presented at the International Conference for Music Perception and Cognition. San Francisco, CA.
-- Fink, L. K., **Hurley, B. K.**, Geng, J. J., Janata, P. (2016). Pupillary and eye blink responses to auditory stimuli index attention and sensorimotor coupling. Poster presented at the International Conference for Music Perception and Cognition. San Francisco, CA.
-- **Hurley, B. K.**, Janata, P. (2015). Temporal Attention in Multipart Music. Poster presented at the UC Symposium on Music in relation to Brain Science, Medicine, & Education. Los Angeles, CA.
-- **Hurley, B. K.**, Janata, P. (2015). Temporal Attention in Multipart Music. Poster presented at the Biennial Meeting of the Society for Music Perception and Cognition. Nashville, TN.
-- **Hurley, B. K.**, Janata, P. (2013). Spontaneous Sensorimotor Coupling and the Musical Auditory Scene. Poster presented at the Biennial Meeting of the Society for Music Perception and Cognition. Toronto, Ontario, Canada.
-- **Hurley, B. K.**, Dowling, W. J. (2010). The Effect of Tempo on Memory for Musical Rhythm. Poster presented at the UT Dallas Undergraduate Research Grant Poster Competition. Richardson, TX.
+- Fink, L., **Hurley, B.**, Geng, J., & Janata, P. (2017). Predicting attention to auditory rhythms using a linear oscillator model and pupillometry. *Conference on Music & Eye-Tracking*. Frankfurt, Germany.
+- **Hurley, B. K.**, Fink, L. K., Janata, P. (2017). A resonator model predicts temporal orienting in rhythmic music. *Proceedings of the Cognitive Neuroscience Society Annual Meeting*. San Francisco, CA.
+- **Hurley, B. K.**, Fink, L. K., Janata, P. (2016). Predicting temporal attention in music with a damped oscillator model. *Proceedings of the 14th International Conference for Music Perception & Cognition*. San Francisco, CA.
+- Fink, L. K., **Hurley, B. K.**, Geng, J. J., Janata, P. (2016). Pupillary and eye blink responses to auditory stimuli index attention and sensorimotor coupling. *Proceedings of the 14th International Conference for Music Perception & Cognition*. San Francisco, CA.
+- **Hurley, B. K.**, Janata, P. (2015). Temporal Attention in Multipart Music. *UC Symposium on Music in relation to Brain Science, Medicine, & Education*. Los Angeles, CA.
+- **Hurley, B. K.**, Janata, P. (2015). Temporal Attention in Multipart Music. *Biennial Meeting of the Society for Music Perception and Cognition*. Nashville, TN.
+- **Hurley, B. K.**, Janata, P. (2013). Spontaneous Sensorimotor Coupling and the Musical Auditory Scene. *Biennial Meeting of the Society for Music Perception and Cognition*. Toronto, Ontario, Canada.
+- **Hurley, B. K.**, Dowling, W. J. (2010). The Effect of Tempo on Memory for Musical Rhythm. *UT Dallas Undergraduate Research Grant Poster Competition*. Richardson, TX.
