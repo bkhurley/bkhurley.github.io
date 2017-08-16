@@ -10,8 +10,6 @@ layout: page
 ### About Me
 I am a PhD student in the [Perception, Cognition, and Cognitive Neuroscience](http://psychology.ucdavis.edu/graduate/graduate-program/areas-of-specialization/perception-cognition-and-cognitive-neuroscience) area of the [University of California Davis'](https://www.ucdavis.edu/) Psychology Department. My research uses body movement recordings, psychophysics, and computational modeling to examine how human listeners deploy their attention to and synchronize their body movements with the sounds that they hear. I typically explore these questions with experiments using music, as music provides a rich acoustic environment that individuals naturally engage with.
 
-As I approach the end of my PhD, I am preparing for a transition to industry, ideally as a data scientist, user researcher, or some combination of data analytics and people-related research (e.g., quantitative user researcher).
-
 When I am not am not designing experiments, coding, analyzing data, or writing my dissertation, you can find me rolling on two wheels through the hilly roads of the San Francisco Bay Area. I also enjoy programming and crunching data on side projects, which you can find [here](https://bkhurley.github.io/projects/).
 
 Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://github.com/bkhurley), or [email](mailto:hurley.brian@gmail.com) me. If you like cycling, you can also find me on [Strava](https://www.strava.com/athletes/4699116).
