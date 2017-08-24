@@ -10,7 +10,7 @@ layout: page
 ### About Me
 I am a PhD student in the [Perception, Cognition, and Cognitive Neuroscience](http://psychology.ucdavis.edu/graduate/graduate-program/areas-of-specialization/perception-cognition-and-cognitive-neuroscience) area of the [University of California Davis'](https://www.ucdavis.edu/) Psychology Department. My research uses body movement recordings, psychophysics, and computational modeling to examine how human listeners deploy their attention to and synchronize their body movements with the sounds that they hear. I typically explore these questions with experiments using music, as music provides a rich acoustic environment that individuals naturally engage with.
 
-I am also interested in predictive analytics and statistical learning. I apply these techniques in side projects, which you can find [here](https://bkhurley.github.io/projects/).
+I am also interested in predictive analytics, statistical learning, and generally solving problems with data. Check out my data-related side projects [here](https://bkhurley.github.io/projects/).
 
 When I am not am not designing experiments, programming, crunching data, or writing my dissertation, you can find me rolling on two wheels through the hilly roads of the San Francisco Bay Area.
 
@@ -23,7 +23,7 @@ Articles published (or to be published!) in peer-review journals
 
 ### Presentations
 Conference presentations
-- Fink, L., **Hurley, B.**, Geng, J., & Janata, P. (2017). Predicting attention to auditory rhythms using a linear oscillator model and pupillometry. *Conference on Music & Eye-Tracking*. Frankfurt, Germany.
+- Fink, L. K., **Hurley, B. K.**, Geng, J. J., & Janata, P. (2017). Predicting attention to auditory rhythms using a linear oscillator model and pupillometry. *Conference on Music & Eye-Tracking*. Frankfurt, Germany.
 - **Hurley, B. K.**, Fink, L. K., Janata, P. (2017). [A resonator model predicts temporal orienting in rhythmic music](/assets/hurley_cns2017_poster.pdf). *Proceedings of the Cognitive Neuroscience Society Annual Meeting*. San Francisco, CA.
 - **Hurley, B. K.**, Fink, L. K., Janata, P. (2016). [Predicting temporal attention in music with a damped oscillator model](/assets/HurleyFinkJanata_ICMPC2016_poster.pdf). *Proceedings of the 14th International Conference for Music Perception & Cognition*. San Francisco, CA.
 - Fink, L. K., **Hurley, B. K.**, Geng, J. J., Janata, P. (2016). [Pupillary and eye blink responses to auditory stimuli index attention and sensorimotor coupling](/assets/ICMPC14_poster_FinkL.pdf). *Proceedings of the 14th International Conference for Music Perception & Cognition*. San Francisco, CA.
