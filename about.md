@@ -10,7 +10,7 @@ layout: page
 ### About Me
 I am a PhD student in the [Perception, Cognition, and Cognitive Neuroscience](http://psychology.ucdavis.edu/graduate/graduate-program/areas-of-specialization/perception-cognition-and-cognitive-neuroscience) area of the [University of California Davis'](https://www.ucdavis.edu/) Psychology Department. My research uses body movement recordings, psychophysics, and computational modeling to examine how human listeners deploy their attention to and synchronize their body movements with the sounds that they hear. I typically explore these questions with experiments using music, as music provides a rich acoustic environment that individuals naturally engage with.
 
-I am also interested in predictive analytics, statistical learning, and generally solving problems with data. Check out my data-related side projects [here](https://bkhurley.github.io/projects/).
+I am also interested in predictive analytics, statistical learning, and solving problems with data. Starting in January 2018, I will begin a postdoctoral data science fellowship at [Insight Data Science](http://insightdatascience.com). Check out my data-related side projects [here](https://bkhurley.github.io/projects/). 
 
 When I am not am not designing experiments, programming, crunching data, or writing my dissertation, you can find me rolling on two wheels through the hilly roads of the San Francisco Bay Area.
 
