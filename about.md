@@ -10,7 +10,7 @@ layout: page
 ### About Me
 I am a PhD student in the [Perception, Cognition, and Cognitive Neuroscience](http://psychology.ucdavis.edu/graduate/graduate-program/areas-of-specialization/perception-cognition-and-cognitive-neuroscience) area of the [University of California Davis'](https://www.ucdavis.edu/) Psychology Department. My research uses body movement recordings, psychophysics, and computational modeling to examine how human listeners deploy their attention to and synchronize their body movements with the sounds that they hear. I typically explore these questions with experiments using music, as music provides a rich acoustic environment that individuals naturally engage with.
 
-I am keenly interested in predictive analytics, statistical learning, and solving problems with data. Starting in January 2018, I will begin a stint as a Data Science Fellow at [Insight](http://insightdatascience.com), an intensive post-doctoral training fellowship aimed at facilitating the transition from academia to data science. Check out my data-related side projects [here](https://bkhurley.github.io/projects/). 
+I am also keenly interested in predictive analytics, statistical learning, and solving problems with data. Starting in January 2018, I will begin as a Data Science Fellow at [Insight](http://insightdatascience.com), an intensive post-doctoral training fellowship aimed at facilitating the transition from academia to industry data science. Check out my data-related side projects [here](https://bkhurley.github.io/projects/). 
 
 When I am not am not designing experiments, programming, crunching data, or writing my dissertation, you can find me rolling on two wheels through the hilly roads of the San Francisco Bay Area.
 
@@ -18,7 +18,7 @@ Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://gi
 
 ### Papers
 Articles published (or to be published!) in peer-review journals
-- **Hurley, B. K.**, Fink, L. K., Janata, P. (2017). *Mapping the dynamic allocation of attention in music.* Manusicript submitted for publication.
+- **Hurley, B. K.**, Fink, L. K., Janata, P. (2017). *Mapping the dynamic allocation of attention in musical patterns.* Manusicript submitted for publication.
 - **Hurley, B. K.**, Martens, P. A., Janata, P. (2014). [Spontaneous sensorimotor coupling with multipart music](/assets/HurleyMartensJanata_2014_JEPHPP.pdf). *Journal of Experimental Psychology: Human Perception and Performance.* 40(4). 1679-1696. doi: 10.1037/a0037154
 
 ### Presentations
