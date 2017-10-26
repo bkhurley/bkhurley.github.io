@@ -22,7 +22,7 @@ url: http://bkhurley.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-108735946-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-# twitter: mytwitter
+twitter: BrianKHurl
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
