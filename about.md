@@ -12,7 +12,7 @@ I am a PhD student in the [Perception, Cognition, and Cognitive Neuroscience](ht
 
 I am also keenly interested in predictive analytics, statistical learning, and solving problems with data (check out my data-related side projects [here](https://bkhurley.github.io/projects/)). As part of my journey in transitioning form academia to industry, I will join [Insight Data Science](http://insightdatascience.com) in Silicon Valley in January 2018 as a post-doctoral Data Science Fellow. 
 
-When I am not am not designing experiments, programming, crunching data, or writing my dissertation, you can find me rolling on two wheels through the hilly roads of the San Francisco Bay Area.
+When I am not designing experiments, programming, crunching data, or writing my dissertation, you can find me rolling on two wheels through the hilly roads of the San Francisco Bay Area.
 
 Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://github.com/bkhurley), or [email](mailto:hurley.brian@gmail.com) me. If you like cycling, you can also find me on [Strava](https://www.strava.com/athletes/4699116).
 
