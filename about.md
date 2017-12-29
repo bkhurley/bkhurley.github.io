@@ -8,17 +8,20 @@ layout: page
 *Graduate Student Researcher and PhD Candidate in the [Janata Lab](https://atonal.ucdavis.edu) at the University of California Davis' [Center for Mind and Brain](http://mindbrain.ucdavis.edu)*
 
 ### About Me
-I am a PhD student in the [Perception, Cognition, and Cognitive Neuroscience](http://psychology.ucdavis.edu/graduate/graduate-program/areas-of-specialization/perception-cognition-and-cognitive-neuroscience) area of the [University of California Davis'](https://www.ucdavis.edu/) Psychology Department. I received my BA from the [University of Texas at Dallas](http://www.utdallas.edu) in the [School of Behavioral and Brain Sciences](http://www.utdallas.edu/bbs/). My PhD research uses body movement recordings, psychophysics, and computational modeling to examine how human listeners deploy their attention to and synchronize their body movements with the sounds that they hear. I typically explore these questions with experiments using music, as music provides a rich acoustic environment that individuals naturally engage with.
+I am a grad student in the final stage of my PhD within the [Perception, Cognition, and Cognitive Neuroscience](http://psychology.ucdavis.edu/graduate/graduate-program/areas-of-specialization/perception-cognition-and-cognitive-neuroscience) area of the [University of California Davis'](https://www.ucdavis.edu/) Psychology Department. I received my BA from the [University of Texas at Dallas](http://www.utdallas.edu) in the [School of Behavioral and Brain Sciences](http://www.utdallas.edu/bbs/). My PhD research uses body movement recordings, psychophysics, and computational modeling to examine how human listeners deploy their attention to and synchronize their body movements with the sounds that they hear. I explore these questions with experiments using music, as music provides a rich acoustic environment that individuals naturally engage with.
 
-I am also keenly interested in predictive analytics, statistical learning, and solving problems with data (check out my data-related side projects [here](https://bkhurley.github.io/projects/)). As part of my journey in transitioning form academia to industry, I will join [Insight Data Science](http://insightdatascience.com) in Silicon Valley in January 2018 as a post-doctoral Data Science Fellow. 
+I am also keenly interested in predictive analytics and solving problems with data (check out my data-related side projects [here](https://bkhurley.github.io/projects/)). In January 2018, I will begin my new role as a Data Science Fellow at [Insight Data Science](http://insightdatascience.com) in Palo Alto, California. 
 
 When I am not designing experiments, programming, crunching data, or writing my dissertation, you can find me rolling on two wheels through the hilly roads of the San Francisco Bay Area.
 
 Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://github.com/bkhurley), or [email](mailto:hurley.brian@gmail.com) me. If you like cycling, you can also find me on [Strava](https://www.strava.com/athletes/4699116).
 
-### Papers
+### Upcoming Papers
 Articles published (or to be published!) in peer-review journals
+- **Hurley, B. K.**, Tomic, S. T., Fink, L. K., Janata, P. (2017). *Attention and expectancy dynamics in musical auditory scenes.* Manuscript in preparation.
 - **Hurley, B. K.**, Fink, L. K., Janata, P. (2017). *Mapping the dynamic allocation of attention in musical patterns.* Manusicript submitted for publication.
+
+### Published Papers
 - **Hurley, B. K.**, Martens, P. A., Janata, P. (2014). [Spontaneous sensorimotor coupling with multipart music](/assets/HurleyMartensJanata_2014_JEPHPP.pdf). *Journal of Experimental Psychology: Human Perception and Performance.* 40(4). 1679-1696. doi: 10.1037/a0037154
 
 ### Presentations
