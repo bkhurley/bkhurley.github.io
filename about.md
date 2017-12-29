@@ -17,7 +17,6 @@ When I am not designing experiments, programming, crunching data, or writing my 
 Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://github.com/bkhurley), or [email](mailto:hurley.brian@gmail.com) me. If you like cycling, you can also find me on [Strava](https://www.strava.com/athletes/4699116).
 
 ### Upcoming Papers
-Articles published (or to be published!) in peer-review journals
 - **Hurley, B. K.**, Tomic, S. T., Fink, L. K., Janata, P. (2017). *Attention and expectancy dynamics in musical auditory scenes.* Manuscript in preparation.
 - **Hurley, B. K.**, Fink, L. K., Janata, P. (2017). *Mapping the dynamic allocation of attention in musical patterns.* Manusicript submitted for publication.
 
