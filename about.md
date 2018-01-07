@@ -19,7 +19,6 @@ Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://gi
 Check out my data-related side projects [here](https://bkhurley.github.io/projects/).
 
 ### Upcoming Papers
-- **Hurley, B. K.**, Tomic, S. T., Fink, L. K., Janata, P. (2017). *Attention and expectancy dynamics in musical auditory scenes.* Manuscript in preparation.
 - **Hurley, B. K.**, Fink, L. K., Janata, P. (2017). *Mapping the dynamic allocation of attention in musical patterns.* Manusicript submitted for publication.
 
 ### Published Papers
