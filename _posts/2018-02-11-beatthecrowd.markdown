@@ -6,9 +6,10 @@ tag:
     - python
     - pandas
     - scikit-learn
-    - seaborn
     - machine learning
     - random forest
+    - seaborn
+    - xpath
     - transit
 image: https://media.nbcbayarea.com/images/652*411/BART-Generic-Image.jpg
 headerImage: true
@@ -20,7 +21,11 @@ author: bkhurley
 externalLink: false
 ---
 
-Project completed across 2 weeks as a Data Science Fellow at Insight Data Science. Uses historical passenger trip data from BART and weather history data from Weather Underground to predict crowd levels on BART. Passenger volume prediction driven by a random forest algorithm. Deployed as an interactive front-end interface via Flask. All code written in Python using the following tools (among others):
+Project completed across 2 weeks as a Data Science Fellow at Insight Data Science. Uses historical passenger trip data from BART and weather history data from Weather Underground to predict crowd levels on BART. Passenger volume prediction driven by a random forest algorithm. 
+
+Deployed as an interactive front-end interface via Flask. Try out the app at [BeatTheCrowd.site](http://beatthecrowd.site). 
+
+All code written in Python using the following tools (among others):
 - pandas
 - scikit-learn
 - Matplotlib
