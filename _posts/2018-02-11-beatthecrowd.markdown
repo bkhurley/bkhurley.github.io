@@ -32,4 +32,4 @@ All code written in Python using the following tools (among others):
 - seaborn
 - lxml
 
-**Check out the [GitHub repo](https://github.com/bkhurley/beatthecrowd) to see the code for this projects.**
+**Check out the [GitHub repo](https://github.com/bkhurley/beat_the_crowd) to see the code for this projects.**
