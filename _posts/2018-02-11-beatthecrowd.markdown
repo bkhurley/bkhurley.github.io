@@ -21,7 +21,7 @@ author: bkhurley
 externalLink: false
 ---
 
-Project completed across 2 weeks as a Data Science Fellow at Insight Data Science. Uses historical passenger trip data from BART and weather history data from Weather Underground to predict crowd levels on BART. Passenger volume prediction driven by a random forest algorithm. 
+Project completed across 2 weeks as a Data Science Fellow at Insight Data Science. Uses historical passenger trip data from BART and weather history data from Weather Underground to predict crowd levels on BART with high accuracy (93% of variance explained in test data). Passenger volume prediction driven by a random forest algorithm. 
 
 Deployed as an interactive front-end interface via Flask. Try out the app at [BeatTheCrowd.site](http://beatthecrowd.site). 
 
