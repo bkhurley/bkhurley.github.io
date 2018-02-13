@@ -11,7 +11,7 @@ tag:
     - seaborn
     - xpath
     - transit
-image: https://media.nbcbayarea.com/images/652*411/BART-Generic-Image.jpg
+image: https://4.bp.blogspot.com/-nSZXRhxAAS4/UKNDjf5r80I/AAAAAAAABM0/gzStRJfB7dc/s1600/IMG_0751.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
