@@ -11,7 +11,7 @@ tag:
     - seaborn
     - xpath
     - transit
-image: https://4.bp.blogspot.com/-nSZXRhxAAS4/UKNDjf5r80I/AAAAAAAABM0/gzStRJfB7dc/s1600/IMG_0751.jpg
+image: https://gigaom.com/wp-content/uploads/sites/1/2011/08/bart.jpg
 #headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
