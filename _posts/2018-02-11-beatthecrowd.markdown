@@ -12,7 +12,7 @@ tag:
     - xpath
     - transit
 image: https://gigaom.com/wp-content/uploads/sites/1/2011/08/bart.jpg
-#headerImage: true
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Predicting crowd levels on Bay Area Rapid Transit"
