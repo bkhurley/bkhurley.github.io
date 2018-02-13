@@ -10,7 +10,7 @@ tag:
     - machine learning
     - random forest
     - transit
-#image: https://media.nbcbayarea.com/images/652*411/BART-Generic-Image.jpg
+image: https://media.nbcbayarea.com/images/652*411/BART-Generic-Image.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
