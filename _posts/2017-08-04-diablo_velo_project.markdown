@@ -29,4 +29,4 @@ Side project that mines cycling data from [Strava's API](https://strava.github.i
 - seaborn
 - BeautifulSoup
 
-**Check out the [GitHub repo](https://github.com/bkhurley/diablo_velo) to see the code for this projects.**
+**Check out the [GitHub repo](https://github.com/bkhurley/diablo_velo) to see the code for this project.**
