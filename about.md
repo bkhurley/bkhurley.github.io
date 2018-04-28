@@ -19,6 +19,7 @@ Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://gi
 Check out my data-related side projects [here](https://bkhurley.github.io/projects/).
 
 ### Papers
+Research papers published in peer-review journals
 - **Hurley, B. K.**, Fink, L. K., Janata, P. (in press). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception and Performance.*
 - **Hurley, B. K.**, Martens, P. A., Janata, P. (2014). [Spontaneous sensorimotor coupling with multipart music](/assets/HurleyMartensJanata_2014_JEPHPP.pdf). *Journal of Experimental Psychology: Human Perception and Performance.* 40(4). 1679-1696. doi: 10.1037/a0037154
 
