@@ -8,7 +8,7 @@ layout: page
 *Data Science Fellow at [Insight Data Science](https://insightdatascience.com)*
 
 ### About Me
-I am a cognitive scientist with a keen interest in solving practical problems and impacting society using data. As of January 2018, I am a Data Science Fellow at [Insight Data Science](https://insightdatascience.com), an intensive seven-week post-doctoral training fellowship to facilitate the transition from academia to data science. 
+I am a cognitive scientist with a keen interest in solving practical problems and impacting people and organizations using data. In April 2018, I joined Facebook's People Analytics team as a People Research Scientist. Prior to Facebook, I was a Data Science Fellow at [Insight Data Science](https://insightdatascience.com). 
 
 In January 2018 I completed my PhD in the [Perception, Cognition, and Cognitive Neuroscience](http://psychology.ucdavis.edu/graduate/graduate-program/areas-of-specialization/perception-cognition-and-cognitive-neuroscience) area of the [University of California Davis'](https://www.ucdavis.edu/) Psychology Department, where I worked in the lab of [Petr Janata](https://atonal.ucdavis.edu). My PhD research used body movement recordings, psychophysics, and computational modeling to examine how human listeners perceive and synchronize body movements with the timing structure of rhythmic sounds, namely music. I received my BA from the [University of Texas at Dallas](http://www.utdallas.edu) in the [School of Behavioral and Brain Sciences](http://www.utdallas.edu/bbs/), where I performed research on the perception and memory of musical patterns under the guidance of [Jay Dowling](https://www.utdallas.edu/bbs/faculty/detail.php5?i=171).
 
@@ -18,10 +18,8 @@ Find me on [LinkedIn](https://linkedin.com/in/bkhurley/) and [Github](https://gi
 
 Check out my data-related side projects [here](https://bkhurley.github.io/projects/).
 
-### Upcoming Papers
-- **Hurley, B. K.**, Fink, L. K., Janata, P. (2017). *Mapping the dynamic allocation of attention in musical patterns.* Manusicript submitted for publication.
-
-### Published Papers
+### Papers
+- **Hurley, B. K.**, Fink, L. K., Janata, P. (in press). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception and Performance.*
 - **Hurley, B. K.**, Martens, P. A., Janata, P. (2014). [Spontaneous sensorimotor coupling with multipart music](/assets/HurleyMartensJanata_2014_JEPHPP.pdf). *Journal of Experimental Psychology: Human Perception and Performance.* 40(4). 1679-1696. doi: 10.1037/a0037154
 
 ### Presentations
