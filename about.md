@@ -20,9 +20,9 @@ Check out my data-related side projects [here](https://bkhurley.github.io/projec
 
 ### Papers
 Research papers published in peer-review journals
-- Fink, L., **Hurley, B.**, Geng, J. & Janata, P. (2018). [A linear oscillator model predicts dynamic temporal attention and pupillary sensorimotor synchronization to rhythmic musical patterns](/assets/fink_hurley_geng_janata_2018.pdf). *Journal of Eye Movement Research.* 11(2):12. doi: 10.16910/jemr.11.2.12
-- **Hurley, B. K.**, Fink, L. K., Janata, P. (2018). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception and Performance.* Advance online publication. doi: 10.1037/xhp0000563
-- **Hurley, B. K.**, Martens, P. A., Janata, P. (2014). [Spontaneous sensorimotor coupling with multipart music](/assets/HurleyMartensJanata_2014_JEPHPP.pdf). *Journal of Experimental Psychology: Human Perception and Performance.* 40(4). 1679-1696. doi: 10.1037/a0037154
+- Fink, L., **Hurley, B.**, Geng, J. & Janata, P. (2018). [A linear oscillator model predicts dynamic temporal attention and pupillary sensorimotor synchronization to rhythmic musical patterns](/assets/fink_hurley_geng_janata_2018.pdf). *Journal of Eye Movement Research.* 11(2):12. doi: [10.16910/jemr.11.2.12](https://bop.unibe.ch/JEMR/article/view/4285/4285-Fink-final-sub1).
+- **Hurley, B. K.**, Fink, L. K., Janata, P. (2018). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception and Performance.* Advance online publication. doi: [10.1037/xhp0000563](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0000563).
+- **Hurley, B. K.**, Martens, P. A., Janata, P. (2014). [Spontaneous sensorimotor coupling with multipart music](/assets/HurleyMartensJanata_2014_JEPHPP.pdf). *Journal of Experimental Psychology: Human Perception and Performance.* 40(4). 1679-1696. doi: [10.1037/a0037154](https://doi.org/10.1037/a0037154).
 
 ### Presentations
 Conference presentations
