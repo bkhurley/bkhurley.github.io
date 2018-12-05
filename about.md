@@ -5,12 +5,12 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 ## Brian Hurley
-*Data Science Fellow at [Insight Data Science](https://insightdatascience.com)*
+*People Research Scientist at Facebook*
 
 ### About Me
-I am a cognitive scientist with a keen interest in solving practical problems and impacting people and organizations using data. In April 2018, I joined Facebook's People Analytics team as a People Research Scientist. Prior to Facebook, I was a Data Science Fellow at [Insight Data Science](https://insightdatascience.com). 
+I am a cognitive scientist turned data scientist with a keen interest in solving practical problems and impacting people and organizations using data. I am a People Research Scientist on Facebook's People Analytics team, where I combine techniques from data science, statistics, and behavioral science to find, grow, and keep Facebook's employee talent. Prior to Facebook, I was a Data Science Fellow at [Insight Data Science](https://insightdatascience.com), where I built end-to-end a web app for predicting crowd levels on Bay Area Rapid Transit, and where I springboarded my transition from academia to data science. 
 
-In January 2018 I completed my PhD in the [Perception, Cognition, and Cognitive Neuroscience](http://psychology.ucdavis.edu/graduate/graduate-program/areas-of-specialization/perception-cognition-and-cognitive-neuroscience) area of the [University of California Davis'](https://www.ucdavis.edu/) Psychology Department, where I worked in the lab of [Petr Janata](https://atonal.ucdavis.edu). My PhD research used body movement recordings, psychophysics, and computational modeling to examine how human listeners perceive and synchronize body movements with the timing structure of rhythmic sounds, namely music. I received my BA from the [University of Texas at Dallas](http://www.utdallas.edu) in the [School of Behavioral and Brain Sciences](http://www.utdallas.edu/bbs/), where I performed research on the perception and memory of musical patterns under the guidance of [Jay Dowling](https://www.utdallas.edu/bbs/faculty/detail.php5?i=171).
+I completed my PhD in the [Perception, Cognition, and Cognitive Neuroscience](http://psychology.ucdavis.edu/graduate/graduate-program/areas-of-specialization/perception-cognition-and-cognitive-neuroscience) area of the [University of California Davis'](https://www.ucdavis.edu/) Psychology Department, where I worked in the lab of [Petr Janata](https://atonal.ucdavis.edu). My PhD research used body movement recordings, psychophysics, and computational modeling to examine how human listeners perceive and synchronize body movements with the timing structure of rhythmic sounds, namely music. I received my BA from the [University of Texas at Dallas](http://www.utdallas.edu) in the [School of Behavioral and Brain Sciences](http://www.utdallas.edu/bbs/), where I performed research on the perception and memory of musical patterns under the guidance of [Jay Dowling](https://www.utdallas.edu/bbs/faculty/detail.php5?i=171).
 
 When I am not designing experiments, programming, or crunching data, you can find me rolling on two wheels through the hilly roads of the San Francisco Bay Area.
 
@@ -20,7 +20,8 @@ Check out my data-related side projects [here](https://bkhurley.github.io/projec
 
 ### Papers
 Research papers published in peer-review journals
-- **Hurley, B. K.**, Fink, L. K., Janata, P. (in press). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception and Performance.*
+- Fink, L., **Hurley, B.**, Geng, J. & Janata, P. (2018). [A linear oscillator model predicts dynamic temporal attention and pupillary sensorimotor synchronization to rhythmic musical patterns](/assets/fink_hurley_geng_janata_2018.pdf). *Journal of Eye Movement Research.* 11(2):12. doi: 10.16910/jemr.11.2.12
+- **Hurley, B. K.**, Fink, L. K., Janata, P. (2018). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception and Performance.* Advance online publication. doi: 10.1037/xhp0000563
 - **Hurley, B. K.**, Martens, P. A., Janata, P. (2014). [Spontaneous sensorimotor coupling with multipart music](/assets/HurleyMartensJanata_2014_JEPHPP.pdf). *Journal of Experimental Psychology: Human Perception and Performance.* 40(4). 1679-1696. doi: 10.1037/a0037154
 
 ### Presentations
