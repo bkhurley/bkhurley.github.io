@@ -1,6 +1,6 @@
 # main text of home
 name: Brian Hurley
-bio: Data scientist with a backgound in cognitive science
+bio: People Research Scientist at Facebook | Cognitive Scientist by Training, Data Scientist by Practice
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -54,7 +54,7 @@ email: hurley.brian@gmail.com
 authors:
     brianhurley:
         name: Brian Hurley
-        bio: PhD Student. Cognitive Scientist. Data Hacker
+        bio: People Research Scientist at Facebook
         external-image: false
         picture: assets/images/hurley_b_cropped.jpeg
         #twitter: johndoe
