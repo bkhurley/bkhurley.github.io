@@ -8,9 +8,9 @@ layout: page
 *Data Scientist | People Researcher | Cognitive Scientist*
 
 ### About Me
-I am a People Scientist at Humu, a startup in the Behavior Change/HR Tech space -- founded by Laszlo Bock of *Work Rules* fame along with  Wayne Crosby and Jessie Wisdeom. At Humu, I combine my expertise in data analytics with my broader behavioral science background to solve problems and uncover insights that enable better workplaces for our partner companies. Prior to Humu, I was a People Research Scientist on Facebook's People Analytics team, and before that I was a Data Science Fellow at Insight Data Science.
+I am a People Scientist at [Humu](https://humu.com/), a startup in the Behavior Change/HR Tech space -- founded by [Laszlo Bock](https://www.linkedin.com/in/laszlobock/) of [*Work Rules*](https://www.amazon.com/Work-Rules-Insights-Inside-Transform-ebook/dp/B00MEMMVB8) fame along with  [Wayne Crosby](https://www.linkedin.com/in/wcrosby/) and [Jessie Wisdeom](https://www.linkedin.com/in/wisdomj/). At Humu, I combine my expertise in data analytics with my broader behavioral science background to solve problems and uncover insights that enable better workplaces for our partner companies. Prior to Humu, I was a People Research Scientist on Facebook's People Analytics team, and before that I was a Data Science Fellow at [Insight Data Science](https://www.insightdatascience.com/).
 
-Despite my landing a career in people analytics, I do not have a formal background in I/O Psychology or a related applied research field. Rather, my Ph.D. was in the basic science area of Cognitive Psychology/Cognitive Neuroscience. I spent my grad school years doing computational modeling and experimental testing of how the brain processes sound (using music, to be exact). 
+Despite my landing a career in people analytics, I do not have a formal background in I/O Psychology or a related applied research field. Instead, my Ph.D. was in the basic science area of Cognitive Psychology/Cognitive Neuroscience. I spent my grad school years doing computational modeling and experimental testing of how the brain processes sound (using music, to be exact). 
 
 So how on earth did I end up in people analytics?
 
