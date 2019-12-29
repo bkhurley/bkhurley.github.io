@@ -1,6 +1,6 @@
 # main text of home
 name: Brian Hurley
-bio: People Scientist at Humu <br><br> 
+bio: Data Scientist | People Researcher | Cognitive Scientist <br><br> 
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ bio: People Scientist at Humu <br><br>
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/hurley_b_cropped.jpeg
+picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -56,7 +56,7 @@ authors:
         name: Brian Hurley
         bio: People Research Scientist at Facebook
         external-image: false
-        picture: assets/images/hurley_b_cropped.jpeg
+        picture: assets/images/profile.png
         #twitter: johndoe
 
 # do you want a larger site? change the option below
