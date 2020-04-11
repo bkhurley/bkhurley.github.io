@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 ## Brian Hurley
-*Data Scientist | People Researcher | Cognitive Scientist*
+*Data Scientist | Cognitive Scientist*
 
 ### About Me
 I am a People Scientist at [Humu](https://humu.com/), a startup in the Behavior Change/HR Tech space -- founded by [Laszlo Bock](https://www.linkedin.com/in/laszlobock/) of [*Work Rules*](https://www.amazon.com/Work-Rules-Insights-Inside-Transform-ebook/dp/B00MEMMVB8) fame along with  [Wayne Crosby](https://www.linkedin.com/in/wcrosby/) and [Jessie Wisdeom](https://www.linkedin.com/in/wisdomj/). At Humu, I combine my expertise in data analytics with my broader behavioral science background to solve problems and uncover insights that enable better workplaces for our partner companies. Prior to Humu, I was a People Research Scientist on Facebook's People Analytics team, and before that I was a Data Science Fellow at [Insight Data Science](https://www.insightdatascience.com/).
