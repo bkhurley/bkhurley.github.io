@@ -8,13 +8,9 @@ layout: page
 *Data Scientist | Cognitive Scientist*
 
 ### About Me
-I am a People Scientist at [Humu](https://humu.com/), a startup in the Behavior Change/HR Tech space -- founded by [Laszlo Bock](https://www.linkedin.com/in/laszlobock/) of [*Work Rules*](https://www.amazon.com/Work-Rules-Insights-Inside-Transform-ebook/dp/B00MEMMVB8) fame along with  [Wayne Crosby](https://www.linkedin.com/in/wcrosby/) and [Jessie Wisdeom](https://www.linkedin.com/in/wisdomj/). At Humu, I combine my expertise in data analytics with my broader behavioral science background to solve problems and uncover insights that enable better workplaces for our partner companies. Prior to Humu, I was a People Research Scientist on Facebook's People Analytics team, and before that I was a Data Science Fellow at [Insight Data Science](https://www.insightdatascience.com/).
+I am a Data Scientist on Apple's People Analytics team. Before Apple, I held people data science roles at [Humu](https://humu.com/) -- a startup founded by founded by [Laszlo Bock](https://www.linkedin.com/in/laszlobock/) of [*Work Rules*](https://www.amazon.com/Work-Rules-Insights-Inside-Transform-ebook/dp/B00MEMMVB8) fame -- and Facebook. I was also a Data Science Fellow at [Insight](https://www.insightdatascience.com/).
 
-Despite my landing a career in people analytics, I do not have a formal background in I/O Psychology or a related applied research field. Instead, my Ph.D. was in the basic science area of Cognitive Psychology/Cognitive Neuroscience. I spent my grad school years at UC Davis' [Center for Mind and Brain](https://mindbrain.ucdavis.edu/) doing computational modeling and experimental testing of how the brain processes sound (using music, to be exact). 
-
-So how on earth did I end up in people analytics?
-
-After my Ph.D. at UC Davis, I pivoted from academic research to industry data science by way of [Insight Data Science](https://www.insightdatascience.com/) (I can't rave enough about how amazing this fellowship is). I knew that I wanted to do data analytics to solve practical, meaningful problems, but had no idea with regard to company type or industry space. During my Insight fellowship I discovered the field of people analytics, which got me excited about combining my behavioral science background and data science skills, and I landed my first industry job doing people analytics at Facebook. My co-workers there introduced by to a deeply insightful, inspiring book called [*Work Rules*](https://www.amazon.com/Work-Rules-Insights-Inside-Transform-ebook/dp/B00MEMMVB8). I later went on to work with the book's author, Laszlo Bock, at Humu.
+Prior to industry, I completed a Ph.D. in Cognitive Psychology/Cognitive Neuroscience at UC Davis' [Center for Mind and Brain](https://mindbrain.ucdavis.edu/), where I worked on computational models and experimental testing of how the brain processes sound (using music, to be exact). 
 
 Aside from work, I spend as much time as possible with my wife and two young, toddler-age daughters. I also love cycling, but I do much less of it these days than I used to. I also love coffee, which I drink much more of these days than I used to.
 
